@@ -1,0 +1,4 @@
+2023-07-05 20:51:59 [INFO] Question: How many wines in this list are from Italy
+2023-07-05 20:51:59 [INFO] Running PandasAI with openai LLM...
+2023-07-05 20:51:59 [INFO] Prompt ID: fdcda2f4-78c3-4607-b711-dd6d23eefd96
+2023-07-05 20:52:00 [INFO] error_code=None error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
